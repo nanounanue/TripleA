@@ -1,61 +1,0 @@
-9
-
-dir
-4152
-https://svn.code.sf.net/p/triplea/code/trunk/triplea/assets
-https://svn.code.sf.net/p/triplea/code
-
-
-
-2014-02-24T11:34:07.753001Z
-4148
-veqryn
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a4c711aa-641f-0410-879d-9b464e52b682
-
-PUs
-dir
-
-dice
-dir
-
-doc
-dir
-
-flags
-dir
-
-misc
-dir
-
-reliefTiles
-dir
-
-resources
-dir
-
-sounds
-dir
-
-territoryEffects
-dir
-
-territoryNames
-dir
-
-units
-dir
-

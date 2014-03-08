@@ -1,94 +1,0 @@
-9
-
-dir
-4152
-https://svn.code.sf.net/p/triplea/code/trunk/triplea/assets/sounds/future
-https://svn.code.sf.net/p/triplea/code
-
-
-
-2014-02-24T11:34:07.753001Z
-4148
-veqryn
-has-props
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a4c711aa-641f-0410-879d-9b464e52b682
-
-battle_aa_hit
-dir
-
-battle_aa_miss
-dir
-
-battle_bombard
-dir
-
-battle_land
-dir
-
-battle_sea_normal
-dir
-
-battle_sea_subs
-dir
-
-bombing_rocket
-dir
-
-bombing_strategic
-dir
-
-game_start
-dir
-
-game_won
-dir
-
-others
-dir
-
-placed_infrastructure
-dir
-
-placed_sea
-dir
-
-political_action_failure
-dir
-
-political_action_successful
-dir
-
-required_your_turn_series
-dir
-
-technology_failure
-dir
-
-technology_successful
-dir
-
-territory_capture_blitz
-dir
-
-territory_capture_capital
-dir
-
-territory_capture_land
-dir
-
-territory_capture_sea
-dir
-

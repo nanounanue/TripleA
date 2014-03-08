@@ -1,55 +1,0 @@
-9
-
-dir
-4152
-https://svn.code.sf.net/p/triplea/code/trunk/triplea/maps/Napoleonic_Empire-Political_Map_Skin/units
-https://svn.code.sf.net/p/triplea/code
-
-
-
-2012-07-04T16:37:20.295159Z
-3669
-veqryn
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a4c711aa-641f-0410-879d-9b464e52b682
-
-AustrianEmpire
-dir
-
-France
-dir
-
-KingdomOfPrussia
-dir
-
-Neutral
-dir
-
-OttomanEmpire
-dir
-
-Russia
-dir
-
-Spain
-dir
-
-Sweden
-dir
-
-UnitedKingdom
-dir
-

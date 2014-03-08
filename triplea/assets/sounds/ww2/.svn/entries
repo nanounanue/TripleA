@@ -1,100 +1,0 @@
-9
-
-dir
-4152
-https://svn.code.sf.net/p/triplea/code/trunk/triplea/assets/sounds/ww2
-https://svn.code.sf.net/p/triplea/code
-
-
-
-2012-12-21T18:29:27.019749Z
-3875
-veqryn
-has-props
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a4c711aa-641f-0410-879d-9b464e52b682
-
-battle_aa_hit
-dir
-
-battle_aa_miss
-dir
-
-battle_air
-dir
-
-battle_bombard
-dir
-
-battle_land
-dir
-
-battle_retreat_submerge
-dir
-
-battle_sea_normal
-dir
-
-battle_sea_subs
-dir
-
-bombing_rocket
-dir
-
-bombing_strategic
-dir
-
-political_action_failure
-dir
-
-political_action_successful
-dir
-
-required_your_turn_series_Americans
-dir
-
-required_your_turn_series_Australians
-dir
-
-required_your_turn_series_British
-dir
-
-required_your_turn_series_Canadians
-dir
-
-required_your_turn_series_Chinese
-dir
-
-required_your_turn_series_French
-dir
-
-required_your_turn_series_Germans
-dir
-
-required_your_turn_series_Italians
-dir
-
-required_your_turn_series_Japanese
-dir
-
-required_your_turn_series_Puppet_States
-dir
-
-required_your_turn_series_Russians
-dir
-
-territory_capture_blitz
-dir
-

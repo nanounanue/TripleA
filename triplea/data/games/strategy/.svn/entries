@@ -1,40 +1,0 @@
-9
-
-dir
-4152
-https://svn.code.sf.net/p/triplea/code/trunk/triplea/data/games/strategy
-https://svn.code.sf.net/p/triplea/code
-
-
-
-2014-02-17T04:48:31.261123Z
-4130
-veqryn
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a4c711aa-641f-0410-879d-9b464e52b682
-
-engine
-dir
-
-kingstable
-dir
-
-triplea
-dir
-
-ui
-dir
-

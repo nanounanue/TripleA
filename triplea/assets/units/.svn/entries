@@ -1,79 +1,0 @@
-9
-
-dir
-4152
-https://svn.code.sf.net/p/triplea/code/trunk/triplea/assets/units
-https://svn.code.sf.net/p/triplea/code
-
-
-
-2013-02-12T19:24:32.145133Z
-3917
-veqryn
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a4c711aa-641f-0410-879d-9b464e52b682
-
-Americans
-dir
-
-Australians
-dir
-
-Black
-dir
-
-British
-dir
-
-Canadians
-dir
-
-Chinese
-dir
-
-French
-dir
-
-Germans
-dir
-
-Italians
-dir
-
-Japanese
-dir
-
-Neutral
-dir
-
-O
-dir
-
-Puppet_States
-dir
-
-Russians
-dir
-
-White
-dir
-
-X
-dir
-
-other
-dir
-
