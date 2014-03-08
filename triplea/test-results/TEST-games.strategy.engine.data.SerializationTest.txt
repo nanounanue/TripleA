@@ -1,7 +1,0 @@
-Testsuite: games.strategy.engine.data.SerializationTest
-Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.46 sec
-
-Testcase: testWritePlayerID took 0.25 sec
-Testcase: testWriteUnitType took 0.06 sec
-Testcase: testWriteTerritory took 0.042 sec
-Testcase: testWriteProductionRulte took 0.047 sec

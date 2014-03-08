@@ -1,9 +1,0 @@
-Testsuite: games.strategy.util.MatchTest
-Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.056 sec
-
-Testcase: testNever took 0.002 sec
-Testcase: testMatches took 0 sec
-Testcase: testAlways took 0.001 sec
-Testcase: testAnd took 0 sec
-Testcase: testOr took 0 sec
-Testcase: testMap took 0 sec

@@ -1,6 +1,0 @@
-Testsuite: games.strategy.engine.data.ChangeTripleATest
-Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 1.997 sec
-
-Testcase: testUnitsAddTerritory took 1.308 sec
-Testcase: testUnitsRemoveTerritory took 0.373 sec
-Testcase: testSerializeUnitsRemoteTerritory took 0.234 sec

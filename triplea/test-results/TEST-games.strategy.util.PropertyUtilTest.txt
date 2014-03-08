@@ -1,4 +1,0 @@
-Testsuite: games.strategy.util.PropertyUtilTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.082 sec
-
-Testcase: testGetFieldObject took 0.028 sec

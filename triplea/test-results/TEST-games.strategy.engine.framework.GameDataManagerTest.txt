@@ -1,4 +1,0 @@
-Testsuite: games.strategy.engine.framework.GameDataManagerTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.811 sec
-
-Testcase: testLoadStoreKeepsGamUUID took 0.735 sec

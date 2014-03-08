@@ -1,7 +1,0 @@
-Testsuite: games.strategy.triplea.delegate.UnitsThatCantFightUtilTest
-Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 1.705 sec
-
-Testcase: testNoSuicideAttacksAA50AtStart took 0.895 sec
-Testcase: testSuicideAttackInAA50 took 0.352 sec
-Testcase: testSuicideAttackInAA50WithTransportedUnits took 0.237 sec
-Testcase: testSuicideAttackInRevised took 0.121 sec

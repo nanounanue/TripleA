@@ -1,7 +1,0 @@
-Testsuite: games.strategy.util.IntegerMapTest
-Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.065 sec
-
-Testcase: testAdd took 0.004 sec
-Testcase: testPositive took 0 sec
-Testcase: testAddMap took 0 sec
-Testcase: testGreaterThan took 0 sec

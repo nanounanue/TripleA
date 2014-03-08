@@ -1,4 +1,0 @@
-Testsuite: games.strategy.engine.data.AllianceTrackerTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.862 sec
-
-Testcase: testAddAlliance took 1.793 sec

@@ -1,5 +1,0 @@
-Testsuite: games.strategy.triplea.baseAI.AIUtilsTest
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1.067 sec
-
-Testcase: testCost took 0.746 sec
-Testcase: testSortByCost took 0.267 sec

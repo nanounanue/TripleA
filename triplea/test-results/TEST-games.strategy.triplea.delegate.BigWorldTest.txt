@@ -1,4 +1,0 @@
-Testsuite: games.strategy.triplea.delegate.BigWorldTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.032 sec
-
-Testcase: testCanalMovementNotStartingInCanalZone took 0.98 sec

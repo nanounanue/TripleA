@@ -1,4 +1,0 @@
-Testsuite: games.strategy.engine.framework.ui.NewGameChooserModelTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.925 sec
-
-Testcase: testCreate took 1.872 sec

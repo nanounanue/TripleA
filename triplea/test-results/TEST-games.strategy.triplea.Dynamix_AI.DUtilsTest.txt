@@ -1,5 +1,0 @@
-Testsuite: games.strategy.triplea.Dynamix_AI.DUtilsTest
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1.675 sec
-
-Testcase: testBattleCalculator took 1.396 sec
-Testcase: testTemp took 0.218 sec

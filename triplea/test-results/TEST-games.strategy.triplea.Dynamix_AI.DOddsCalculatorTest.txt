@@ -1,7 +1,0 @@
-Testsuite: games.strategy.triplea.Dynamix_AI.DOddsCalculatorTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 4.089 sec
-------------- Standard Output ---------------
-Time Taken To Calculate: 2393
-------------- ---------------- ---------------
-
-Testcase: testBattleCalculator took 4.025 sec

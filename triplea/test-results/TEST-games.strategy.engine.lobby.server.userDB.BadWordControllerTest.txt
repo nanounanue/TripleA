@@ -1,4 +1,0 @@
-Testsuite: games.strategy.engine.lobby.server.userDB.BadWordControllerTest
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.92 sec
-
-Testcase: testCRUD took 0.868 sec
