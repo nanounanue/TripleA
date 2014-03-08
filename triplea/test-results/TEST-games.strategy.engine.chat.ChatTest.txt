@@ -1,0 +1,20 @@
+Testsuite: games.strategy.engine.chat.ChatTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.461 sec
+------------- Standard Error -----------------
+Oct 29, 2013 11:24:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:58863 ip:127.0.0.1
+Oct 29, 2013 11:24:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:58868 ip:127.0.0.1
+Oct 29, 2013 11:24:35 PM games.strategy.engine.chat.ChatController joinChat
+INFO: Chatter:Server port:12001 ip:172.17.11.33 is joining chat:c
+Oct 29, 2013 11:24:35 PM games.strategy.engine.chat.ChatController joinChat
+INFO: Chatter:client1 port:58863 ip:127.0.0.1 is joining chat:c
+Oct 29, 2013 11:24:35 PM games.strategy.engine.chat.ChatController joinChat
+INFO: Chatter:client2 port:58868 ip:127.0.0.1 is joining chat:c
+Oct 29, 2013 11:24:35 PM games.strategy.engine.chat.ChatController leaveChatInternal
+INFO: Chatter:client1 port:58863 ip:127.0.0.1 has left chat:c
+Oct 29, 2013 11:24:35 PM games.strategy.engine.chat.ChatController leaveChatInternal
+INFO: Chatter:client2 port:58868 ip:127.0.0.1 has left chat:c
+------------- ---------------- ---------------
+
+Testcase: testAll took 1.395 sec

@@ -1,0 +1,25 @@
+Testsuite: games.strategy.engine.data.MapTest
+Tests run: 22, Failures: 0, Errors: 0, Time elapsed: 0.254 sec
+
+Testcase: testNowhere took 0.156 sec
+Testcase: testCantFindByName took 0 sec
+Testcase: testCanFindByName took 0 sec
+Testcase: testSame took 0.001 sec
+Testcase: testImpossibleConditionRoute took 0.005 sec
+Testcase: testOne took 0 sec
+Testcase: testTwo took 0.001 sec
+Testcase: testOverWater took 0.001 sec
+Testcase: testOverWaterCantReach took 0.001 sec
+Testcase: testLong took 0 sec
+Testcase: testLongRoute took 0.003 sec
+Testcase: testNeighborLandNoSeaConnect took 0 sec
+Testcase: testNeighborSeaNoLandConnect took 0 sec
+Testcase: testRouteToSelf took 0.001 sec
+Testcase: testRouteSizeOne took 0.001 sec
+Testcase: testImpossibleRoute took 0.001 sec
+Testcase: testImpossibleLandRoute took 0.001 sec
+Testcase: testImpossibleLandDistance took 0.001 sec
+Testcase: testWaterRout took 0.001 sec
+Testcase: testMultiplePossible took 0.001 sec
+Testcase: testNeighbors took 0 sec
+Testcase: testNeighborsWithDistance took 0.001 sec

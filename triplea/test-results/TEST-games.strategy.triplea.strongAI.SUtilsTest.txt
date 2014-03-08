@@ -1,0 +1,7 @@
+Testsuite: games.strategy.triplea.strongAI.SUtilsTest
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.654 sec
+
+Testcase: testReorderLesser took 0.583 sec
+Testcase: testReorderGreater took 0 sec
+Testcase: testReorderIntGreater took 0.005 sec
+Testcase: testReorderIntLesser took 0 sec

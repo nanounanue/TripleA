@@ -1,0 +1,17 @@
+Testsuite: games.strategy.triplea.delegate.VictoryTest
+Tests run: 14, Failures: 0, Errors: 0, Time elapsed: 4.645 sec
+
+Testcase: testNoBlitzThroughMountain took 1.285 sec
+Testcase: testBlitzNormal took 0.459 sec
+Testcase: testNoBlitzWithStopThroughMountain took 1.379 sec
+Testcase: testBlitzWithStop took 0.232 sec
+Testcase: testMotorizedThroughMountain took 0.222 sec
+Testcase: testMotorizedNoBlitzBlitzedTerritory took 0.183 sec
+Testcase: testFuelUseMotorized took 0.176 sec
+Testcase: testUseNoFuelWhileTransported took 0.143 sec
+Testcase: testMultipleResourcesToPurchase took 0.087 sec
+Testcase: testNotEnoughMultipleResourcesToPurchase took 0.079 sec
+Testcase: testPUOnlyResourcesToPurchase took 0.089 sec
+Testcase: testNoPUResourcesToPurchase took 0.085 sec
+Testcase: testTerritoryEffectsOnCombat took 0.075 sec
+Testcase: testCanOnlyInvadeFrom took 0.069 sec

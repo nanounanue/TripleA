@@ -1,0 +1,11 @@
+Testsuite: games.strategy.triplea.delegate.PacificTest
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 2.642 sec
+
+Testcase: testNonJapanAttack took 0.936 sec
+Testcase: testJapanAttackFirstRound took 0.265 sec
+Testcase: testCanLand2Airfields took 0.331 sec
+Testcase: testCanLand1AirfieldStart took 0.288 sec
+Testcase: testCanLand1AirfieldEnd took 0.228 sec
+Testcase: testCanMoveNavalBase took 0.181 sec
+Testcase: testJapaneseDestroyerTransport took 0.168 sec
+Testcase: testTest took 0.186 sec

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/triplea/code/!svn/ver/4054/trunk/triplea/src/games/strategy/common/player
+END
+AbstractHumanPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/4054/trunk/triplea/src/games/strategy/common/player/AbstractHumanPlayer.java
+END
+AbstractBaseAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/4036/trunk/triplea/src/games/strategy/common/player/AbstractBaseAI.java
+END
+AbstractBasePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/4054/trunk/triplea/src/games/strategy/common/player/AbstractBasePlayer.java
+END

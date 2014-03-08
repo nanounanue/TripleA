@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/triplea/code/!svn/ver/4128/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects
+END
+TechResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/3599/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/TechResults.java
+END
+CasualtyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/4128/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/CasualtyList.java
+END
+PlaceableUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/PlaceableUnits.java
+END
+BattleListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/triplea/code/!svn/ver/4014/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/BattleListing.java
+END
+MoveDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/MoveDescription.java
+END
+FightBattleDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/triplea/code/!svn/ver/3973/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/FightBattleDetails.java
+END
+BattleRecords.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/triplea/code/!svn/ver/3652/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/BattleRecords.java
+END
+BattleRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/4023/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/BattleRecord.java
+END
+AbstractMoveDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/AbstractMoveDescription.java
+END
+MoveValidationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/MoveValidationResult.java
+END
+PlacementDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/PlacementDescription.java
+END
+TechRoll.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3599/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/TechRoll.java
+END
+MustMoveWithDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/MustMoveWithDetails.java
+END
+CasualtyDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/4128/trunk/triplea/src/games/strategy/triplea/delegate/dataObjects/CasualtyDetails.java
+END

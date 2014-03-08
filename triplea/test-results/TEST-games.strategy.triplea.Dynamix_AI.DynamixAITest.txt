@@ -1,0 +1,4 @@
+Testsuite: games.strategy.triplea.Dynamix_AI.DynamixAITest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.764 sec
+
+Testcase: testCost took 0.711 sec

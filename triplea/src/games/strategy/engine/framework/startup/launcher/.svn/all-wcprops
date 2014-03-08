@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/4152/trunk/triplea/src/games/strategy/engine/framework/startup/launcher
+END
+LocalLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/triplea/code/!svn/ver/4152/trunk/triplea/src/games/strategy/engine/framework/startup/launcher/LocalLauncher.java
+END
+ILauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/framework/startup/launcher/ILauncher.java
+END
+IServerReady.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/framework/startup/launcher/IServerReady.java
+END
+ServerLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/triplea/code/!svn/ver/4152/trunk/triplea/src/games/strategy/engine/framework/startup/launcher/ServerLauncher.java
+END
+AbstractLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/triplea/code/!svn/ver/4031/trunk/triplea/src/games/strategy/engine/framework/startup/launcher/AbstractLauncher.java
+END

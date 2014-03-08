@@ -1,0 +1,7 @@
+Testsuite: games.strategy.engine.lobby.server.userDB.BannedIpControllerTest
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.93 sec
+
+Testcase: testCRUD took 0.848 sec
+Testcase: testNonBannedIp took 0.003 sec
+Testcase: testBanExpires took 0.015 sec
+Testcase: testUpdate took 0.01 sec

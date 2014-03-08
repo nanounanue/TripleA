@@ -1,0 +1,8 @@
+Testsuite: games.strategy.kingstable.delegate.PlayDelegateTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.557 sec
+
+Testcase: testNormalPlay took 0.324 sec
+Testcase: testMoveFromEmptySquare took 0.049 sec
+Testcase: testMoveToOccupiedSquare took 0.044 sec
+Testcase: testMoveThroughOccupiedSquare took 0.042 sec
+Testcase: testTest took 0.039 sec

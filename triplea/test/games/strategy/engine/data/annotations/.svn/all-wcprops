@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/triplea/code/!svn/ver/4144/trunk/triplea/test/games/strategy/engine/data/annotations
+END
+ExampleAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/triplea/code/!svn/ver/3674/trunk/triplea/test/games/strategy/engine/data/annotations/ExampleAttachment.java
+END
+InvalidFieldTypeExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/triplea/code/!svn/ver/3751/trunk/triplea/test/games/strategy/engine/data/annotations/InvalidFieldTypeExample.java
+END
+ValidateAttachmentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/triplea/code/!svn/ver/4144/trunk/triplea/test/games/strategy/engine/data/annotations/ValidateAttachmentsTest.java
+END
+InvalidFieldNameExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/triplea/code/!svn/ver/3674/trunk/triplea/test/games/strategy/engine/data/annotations/InvalidFieldNameExample.java
+END
+InvalidReturnTypeExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/triplea/code/!svn/ver/3751/trunk/triplea/test/games/strategy/engine/data/annotations/InvalidReturnTypeExample.java
+END
+InvalidGetterExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/triplea/code/!svn/ver/3674/trunk/triplea/test/games/strategy/engine/data/annotations/InvalidGetterExample.java
+END
+InvalidClearExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/3674/trunk/triplea/test/games/strategy/engine/data/annotations/InvalidClearExample.java
+END
+InvalidResetExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/3674/trunk/triplea/test/games/strategy/engine/data/annotations/InvalidResetExample.java
+END

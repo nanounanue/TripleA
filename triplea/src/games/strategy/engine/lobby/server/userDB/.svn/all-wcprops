@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/3961/trunk/triplea/src/games/strategy/engine/lobby/server/userDB
+END
+DbUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/DbUtil.java
+END
+MutedMacController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/MutedMacController.java
+END
+BannedUsernameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/triplea/code/!svn/ver/3798/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/BannedUsernameController.java
+END
+MutedIpController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/MutedIpController.java
+END
+MutedUsernameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/MutedUsernameController.java
+END
+BannedMacController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/triplea/code/!svn/ver/3798/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/BannedMacController.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/3961/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/Database.java
+END
+BadWordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/BadWordController.java
+END
+DBUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/DBUser.java
+END
+DBUserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/triplea/code/!svn/ver/3561/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/DBUserController.java
+END
+BannedIpController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/triplea/code/!svn/ver/3798/trunk/triplea/src/games/strategy/engine/lobby/server/userDB/BannedIpController.java
+END

@@ -1,0 +1,22 @@
+Testsuite: games.strategy.triplea.delegate.PlaceDelegateTest
+Tests run: 19, Failures: 0, Errors: 0, Time elapsed: 2.739 sec
+
+Testcase: testValid took 0.609 sec
+Testcase: testNotCorrectUnitsValid took 0.21 sec
+Testcase: testOnlySeaInSeaZone took 0.112 sec
+Testcase: testSeaCanGoInSeaZone took 0.128 sec
+Testcase: testLandCanGoInLandZone took 0.095 sec
+Testcase: testSeaCantGoInSeaInLandZone took 0.104 sec
+Testcase: testNoGoIfOpposingTroopsSea took 0.143 sec
+Testcase: testNoGoIfOpposingTroopsLand took 0.135 sec
+Testcase: testOnlyOneFactoryPlaced took 0.118 sec
+Testcase: testCantPlaceAAWhenOneAlreadyThere took 0.113 sec
+Testcase: testCantPlaceTwoAA took 0.082 sec
+Testcase: testProduceFactory took 0.065 sec
+Testcase: testMustOwnToPlace took 0.169 sec
+Testcase: testCanProduce took 0.113 sec
+Testcase: testCanProduceInSea took 0.071 sec
+Testcase: testCanNotProduceThatManyUnits took 0.095 sec
+Testcase: testAlreadyProducedUnits took 0.07 sec
+Testcase: testMultipleFactories took 0.067 sec
+Testcase: testTest took 0.074 sec

@@ -1,0 +1,12 @@
+Testsuite: games.strategy.triplea.delegate.AirThatCantLandUtilTest
+Tests run: 9, Failures: 0, Errors: 0, Time elapsed: 2.381 sec
+
+Testcase: testSimple took 0.831 sec
+Testcase: testCantLandEnemyTerritory took 0.359 sec
+Testcase: testCantLandWater took 0.174 sec
+Testcase: testSpareNextToFactory took 0.123 sec
+Testcase: testCantLandCarrier took 0.096 sec
+Testcase: testCanLandNeighborCarrier took 0.544 sec
+Testcase: testCanLandMultiNeighborCarriers took 0.069 sec
+Testcase: testCanLandNeighborLandV2 took 0.055 sec
+Testcase: testCanLandNeighborLandWithRetreatedBattleV2 took 0.065 sec

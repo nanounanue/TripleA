@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/triplea/code/!svn/ver/4130/trunk/triplea/data
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/triplea/code/!svn/ver/4036/trunk/triplea/data/logging.properties
+END
+headless-game-server-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/triplea/code/!svn/ver/4044/trunk/triplea/data/headless-game-server-logging.properties
+END
+server-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/triplea/code/!svn/ver/4036/trunk/triplea/data/server-logging.properties
+END

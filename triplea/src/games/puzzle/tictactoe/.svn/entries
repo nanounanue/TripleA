@@ -1,0 +1,71 @@
+9
+
+dir
+4152
+https://svn.code.sf.net/p/triplea/code/trunk/triplea/src/games/puzzle/tictactoe
+https://svn.code.sf.net/p/triplea/code
+
+
+
+2013-06-04T12:26:03.089059Z
+4054
+veqryn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4c711aa-641f-0410-879d-9b464e52b682
+
+TicTacToe.java
+file
+
+
+
+
+2013-10-30T03:25:56.585000Z
+1f1b31ba1e2cee32d6a6eb85c5443efc
+2013-03-06T17:19:00.437159Z
+3942
+veqryn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3811
+
+delegate
+dir
+
+player
+dir
+
+ui
+dir
+

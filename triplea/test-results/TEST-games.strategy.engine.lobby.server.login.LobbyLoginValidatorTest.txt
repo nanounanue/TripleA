@@ -1,0 +1,51 @@
+Testsuite: games.strategy.engine.lobby.server.login.LobbyLoginValidatorTest
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 2.127 sec
+------------- Standard Error -----------------
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Successful login from:0.0.0.0/0.0.0.0:5000 for user:1383107108204
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.AccessLog successfulLogin
+INFO: LOGIN name:1383107108204 ip:0.0.0.0 time_ms:1383107109428 time:Tue Oct 29 23:25:09 CDT 2013
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from 0.0.0.0/0.0.0.0:5000 for user 1383107108204 error:That user name has already been taken
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:1383107108204 ip:0.0.0.0 time_ms:1383107109439 error:That user name has already been taken time:Tue Oct 29 23:25:09 CDT 2013
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from 0.0.0.0/0.0.0.0:5000 for user 1383107109442 error:Wrong version, we require1.0 but trying to log in with 0.1
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:1383107109442 ip:0.0.0.0 time_ms:1383107109578 error:Wrong version, we require1.0 but trying to log in with 0.1 time:Tue Oct 29 23:25:09 CDT 2013
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Successful login from:0.0.0.0/0.0.0.0:5000 for user:1383107109580
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.AccessLog successfulLogin
+INFO: LOGIN name:1383107109580 ip:0.0.0.0 time_ms:1383107109736 time:Tue Oct 29 23:25:09 CDT 2013
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from 0.0.0.0/0.0.0.0:5000 for user 1383107109580 error:Can't login anonymously, username already exists
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:1383107109580 ip:0.0.0.0 time_ms:1383107109783 error:Can't login anonymously, username already exists time:Tue Oct 29 23:25:09 CDT 2013
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from 0.0.0.0/0.0.0.0:5000 for user bitCh1383107109786 error:That's not a nice name.
+Oct 29, 2013 11:25:09 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:bitCh1383107109786 ip:0.0.0.0 time_ms:1383107109901 error:That's not a nice name. time:Tue Oct 29 23:25:09 CDT 2013
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Successful login from:0.0.0.0/0.0.0.0:5000 for user:1383107109903
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.AccessLog successfulLogin
+INFO: LOGIN name:1383107109903 ip:0.0.0.0 time_ms:1383107110082 time:Tue Oct 29 23:25:10 CDT 2013
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from 0.0.0.0/0.0.0.0:5000 for user 1383107109903 error:Incorrect password
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:1383107109903 ip:0.0.0.0 time_ms:1383107110105 error:Incorrect password time:Tue Oct 29 23:25:10 CDT 2013
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from 0.0.0.0/0.0.0.0:5000 for user 1383107110107 error:Username does not exist
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:1383107110107 ip:0.0.0.0 time_ms:1383107110112 error:Username does not exist time:Tue Oct 29 23:25:10 CDT 2013
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.LobbyLoginValidator verifyConnection
+INFO: Bad login attemp from /1.1.1.1:5000 for user name1383107110121 error:You have been banned from the TripleA lobby. Banned Forever
+Oct 29, 2013 11:25:10 PM games.strategy.engine.lobby.server.login.AccessLog failedLogin
+INFO: FAILED name:name1383107110121 ip:1.1.1.1 time_ms:1383107110236 error:You have been banned from the TripleA lobby. Banned Forever time:Tue Oct 29 23:25:10 CDT 2013
+------------- ---------------- ---------------
+
+Testcase: testCreateNewUser took 1.278 sec
+Testcase: testWrongVersion took 0.137 sec
+Testcase: testAnonymousLogin took 0.204 sec
+Testcase: testAnonymousLoginBadName took 0.117 sec
+Testcase: testLogin took 0.21 sec
+Testcase: testAnonymousLoginBadIp took 0.123 sec

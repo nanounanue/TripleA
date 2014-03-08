@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/triplea/code/!svn/ver/4121/trunk/triplea/src/games/strategy/engine/chat
+END
+SentMessagesHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/SentMessagesHistory.java
+END
+IStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/IStatusListener.java
+END
+StatusController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/StatusController.java
+END
+ChatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/4053/trunk/triplea/src/games/strategy/engine/chat/ChatPanel.java
+END
+ChatPlayerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/chat/ChatPlayerPanel.java
+END
+IPlayerActionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/IPlayerActionFactory.java
+END
+ChatIgnoreList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/ChatIgnoreList.java
+END
+IStatusChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/IStatusChannel.java
+END
+IChatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/chat/IChatPanel.java
+END
+IChatChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/3740/trunk/triplea/src/games/strategy/engine/chat/IChatChannel.java
+END
+CompositeIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3465/trunk/triplea/src/games/strategy/engine/chat/CompositeIcon.java
+END
+IChatController.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/triplea/code/!svn/ver/3561/trunk/triplea/src/games/strategy/engine/chat/IChatController.java
+END
+PlayerChatRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/triplea/code/!svn/ver/4036/trunk/triplea/src/games/strategy/engine/chat/PlayerChatRenderer.java
+END
+StatusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/StatusManager.java
+END
+Chat.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/chat/Chat.java
+END
+IStatusController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/IStatusController.java
+END
+ChatFloodControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/chat/ChatFloodControl.java
+END
+ChatMessagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/chat/ChatMessagePanel.java
+END
+IChatListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3533/trunk/triplea/src/games/strategy/engine/chat/IChatListener.java
+END
+ChatController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/3760/trunk/triplea/src/games/strategy/engine/chat/ChatController.java
+END
+HeadlessChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/4121/trunk/triplea/src/games/strategy/engine/chat/HeadlessChat.java
+END

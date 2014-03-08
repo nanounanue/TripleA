@@ -1,0 +1,46 @@
+Testsuite: games.strategy.triplea.delegate.RevisedTest
+Tests run: 43, Failures: 0, Errors: 0, Time elapsed: 3.493 sec
+
+Testcase: testMoveBadRoute took 0.792 sec
+Testcase: testAlliedNeighbors took 0.272 sec
+Testcase: testSubAdvance took 0.172 sec
+Testcase: testMoveThroughSubmergedSubs took 0.212 sec
+Testcase: testRetreatBug took 0.237 sec
+Testcase: testContinuedBattles took 0.1 sec
+Testcase: testLoadAlliedTransports took 0.091 sec
+Testcase: testBidPlace took 0.085 sec
+Testcase: testBombingRaid took 0.07 sec
+Testcase: testOverFlyBombersDies took 0.074 sec
+Testcase: testMultipleOverFlyBombersDies took 0.061 sec
+Testcase: testOverFlyBombersJoiningBattleDie took 0.067 sec
+Testcase: testTransportAttack took 0.047 sec
+Testcase: testLoadUndo took 0.047 sec
+Testcase: testLoadDependencies took 0.047 sec
+Testcase: testLoadUndoInWrongOrder took 0.047 sec
+Testcase: testLoadUnloadAlliedTransport took 0.037 sec
+Testcase: testUnloadMultipleTerritories took 0.043 sec
+Testcase: testUnloadInPreviousPhase took 0.044 sec
+Testcase: testSubAttackTransportNonCombat took 0.022 sec
+Testcase: testSubAttackNonCombat took 0.028 sec
+Testcase: testTransportAttackSubNonCombat took 0.024 sec
+Testcase: testMoveSubAwayFromSubmergedSubsInBattleZone took 0.044 sec
+Testcase: testAAOwnership took 0.043 sec
+Testcase: testStratBombCasualties took 0.038 sec
+Testcase: testStratBombCasualtiesLowLuck took 0.029 sec
+Testcase: testStratBombCasualtiesLowLuckManyBombers took 0.032 sec
+Testcase: testStratBombRaidWithHeavyBombers took 0.043 sec
+Testcase: testLandBattleNoSneakAttack took 0.032 sec
+Testcase: testSeaBattleNoSneakAttack took 0.03 sec
+Testcase: testAttackSubsOnSubs took 0.03 sec
+Testcase: testAttackSubsOnDestroyer took 0.043 sec
+Testcase: testAttackSubsAndBBOnDestroyerAndSubs took 0.033 sec
+Testcase: testAttackDestroyerAndSubsAgainstSub took 0.035 sec
+Testcase: testAttackSubsAndDestroyerOnBBAndSubs took 0.036 sec
+Testcase: testAttackDestroyerAndSubsAgainstSubAndDestroyer took 0.041 sec
+Testcase: testUnplacedDie took 0.026 sec
+Testcase: testRocketsDontFireInConquered took 0.049 sec
+Testcase: testTechRolls took 0.043 sec
+Testcase: testTransportsUnloadingToMultipleTerritoriesDie took 0.04 sec
+Testcase: testCanalMovePass took 0.025 sec
+Testcase: testCanalMovementFail took 0.02 sec
+Testcase: testTransportIsTransport took 0.017 sec

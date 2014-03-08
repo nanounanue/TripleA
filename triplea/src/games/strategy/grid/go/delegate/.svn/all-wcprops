@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/triplea/code/!svn/ver/4023/trunk/triplea/src/games/strategy/grid/go/delegate
+END
+EndTurnDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/grid/go/delegate/EndTurnDelegate.java
+END
+PlayDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/triplea/code/!svn/ver/4023/trunk/triplea/src/games/strategy/grid/go/delegate/PlayDelegate.java
+END
+InitializationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/grid/go/delegate/InitializationDelegate.java
+END

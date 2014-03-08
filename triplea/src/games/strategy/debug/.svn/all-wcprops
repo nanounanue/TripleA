@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/triplea/code/!svn/ver/4112/trunk/triplea/src/games/strategy/debug
+END
+DebugUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/triplea/code/!svn/ver/4092/trunk/triplea/src/games/strategy/debug/DebugUtils.java
+END
+HeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/triplea/code/!svn/ver/4112/trunk/triplea/src/games/strategy/debug/HeartBeat.java
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/triplea/code/!svn/ver/4092/trunk/triplea/src/games/strategy/debug/Console.java
+END
+IHeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/debug/IHeartBeat.java
+END

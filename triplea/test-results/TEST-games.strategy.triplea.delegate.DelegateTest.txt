@@ -1,0 +1,4 @@
+Testsuite: games.strategy.triplea.delegate.DelegateTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.555 sec
+
+Testcase: testTest took 0.495 sec

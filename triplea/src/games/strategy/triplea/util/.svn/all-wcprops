@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/triplea/code/!svn/ver/4129/trunk/triplea/src/games/strategy/triplea/util
+END
+UnitOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/triplea/util/UnitOwner.java
+END
+LoggingPrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/triplea/util/LoggingPrintStream.java
+END
+UnitSeperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/4129/trunk/triplea/src/games/strategy/triplea/util/UnitSeperator.java
+END
+Stopwatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/triplea/util/Stopwatch.java
+END
+UnitAutoChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/3751/trunk/triplea/src/games/strategy/triplea/util/UnitAutoChooser.java
+END
+WrappedInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/triplea/util/WrappedInvocationHandler.java
+END
+PlayerOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/triplea/code/!svn/ver/3901/trunk/triplea/src/games/strategy/triplea/util/PlayerOrderComparator.java
+END
+UnitCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/4129/trunk/triplea/src/games/strategy/triplea/util/UnitCategory.java
+END

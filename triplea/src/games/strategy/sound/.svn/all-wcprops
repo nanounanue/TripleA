@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/triplea/code/!svn/ver/4145/trunk/triplea/src/games/strategy/sound
+END
+SoundOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/triplea/code/!svn/ver/3908/trunk/triplea/src/games/strategy/sound/SoundOptions.java
+END
+DummySoundChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/triplea/code/!svn/ver/4134/trunk/triplea/src/games/strategy/sound/DummySoundChannel.java
+END
+SoundOptionCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3797/trunk/triplea/src/games/strategy/sound/SoundOptionCheckBox.java
+END
+ISound.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/triplea/code/!svn/ver/4134/trunk/triplea/src/games/strategy/sound/ISound.java
+END
+DefaultSoundChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/4134/trunk/triplea/src/games/strategy/sound/DefaultSoundChannel.java
+END
+SoundPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/triplea/code/!svn/ver/4134/trunk/triplea/src/games/strategy/sound/SoundPath.java
+END
+SoundProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/3846/trunk/triplea/src/games/strategy/sound/SoundProperties.java
+END
+ClipPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/triplea/code/!svn/ver/4145/trunk/triplea/src/games/strategy/sound/ClipPlayer.java
+END

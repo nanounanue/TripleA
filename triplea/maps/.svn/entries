@@ -1,0 +1,70 @@
+9
+
+dir
+4152
+https://svn.code.sf.net/p/triplea/code/trunk/triplea/maps
+https://svn.code.sf.net/p/triplea/code
+
+
+
+2014-02-24T08:31:12.208361Z
+4144
+veqryn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4c711aa-641f-0410-879d-9b464e52b682
+
+Napoleonic_Empire
+dir
+
+Napoleonic_Empire-Political_Map_Skin
+dir
+
+big_world
+dir
+
+capture_the_flag
+dir
+
+checkers
+dir
+
+chess
+dir
+
+go
+dir
+
+great_war
+dir
+
+middle_earth
+dir
+
+middle_earth-map_skin2
+dir
+
+minimap
+dir
+
+new_world_order
+dir
+
+the_pact_of_steel
+dir
+
+unclassified
+dir
+

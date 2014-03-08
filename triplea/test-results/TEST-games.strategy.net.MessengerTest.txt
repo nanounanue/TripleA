@@ -1,0 +1,383 @@
+Testsuite: games.strategy.net.MessengerTest
+Tests run: 14, Failures: 0, Errors: 0, Time elapsed: 21.644 sec
+------------- Standard Error -----------------
+Oct 29, 2013 11:25:28 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59049 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59054 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59065 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59070 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59081 ip:127.0.0.1
+Oct 29, 2013 11:25:30 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59086 ip:127.0.0.1
+Oct 29, 2013 11:25:30 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59097 ip:127.0.0.1
+Oct 29, 2013 11:25:30 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59102 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59113 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59118 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59129 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59134 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59145 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59150 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59161 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59166 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59177 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59182 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59193 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59198 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59209 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59214 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client1 port:59209 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59225 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59230 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client1 port:59225 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client2 port:59230 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59241 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59246 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client1 port:59241 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59257 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59262 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient0 port:59267 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient1 port:59272 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient2 port:59277 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient3 port:59282 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient4 port:59287 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient5 port:59292 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient6 port:59297 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient7 port:59302 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient8 port:59307 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient9 port:59312 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient10 port:59317 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient11 port:59322 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient12 port:59327 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient13 port:59332 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient14 port:59337 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient15 port:59342 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient16 port:59347 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient17 port:59352 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient18 port:59357 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient19 port:59362 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient20 port:59367 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient21 port:59372 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient22 port:59377 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient23 port:59382 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient24 port:59387 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient25 port:59392 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient26 port:59397 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient27 port:59402 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient28 port:59407 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient29 port:59412 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient30 port:59417 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient31 port:59422 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient32 port:59427 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient33 port:59432 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient34 port:59437 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient35 port:59442 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient36 port:59447 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient37 port:59452 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient38 port:59457 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient39 port:59462 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient40 port:59467 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient41 port:59472 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient42 port:59477 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient43 port:59482 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient44 port:59487 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient45 port:59492 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient46 port:59497 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient47 port:59502 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient48 port:59507 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient49 port:59512 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient50 port:59517 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient51 port:59522 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient52 port:59527 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient53 port:59532 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient54 port:59537 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient55 port:59542 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient56 port:59547 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient57 port:59552 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient58 port:59557 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient59 port:59562 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient60 port:59567 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient61 port:59572 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient62 port:59577 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient63 port:59582 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient64 port:59587 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient65 port:59592 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient66 port:59597 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient67 port:59602 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient68 port:59607 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient69 port:59612 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient70 port:59617 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient71 port:59622 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient72 port:59627 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient73 port:59632 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient74 port:59637 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient0 port:59267 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient1 port:59272 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient2 port:59277 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient3 port:59282 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient4 port:59287 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient5 port:59292 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient6 port:59297 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient7 port:59302 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient8 port:59307 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient9 port:59312 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient10 port:59317 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient11 port:59322 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient12 port:59327 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient13 port:59332 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient14 port:59337 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient15 port:59342 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient16 port:59347 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient17 port:59352 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient18 port:59357 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient19 port:59362 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient20 port:59367 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient21 port:59372 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient22 port:59377 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient23 port:59382 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient24 port:59387 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient25 port:59392 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient26 port:59397 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient27 port:59402 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient28 port:59407 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient29 port:59412 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient30 port:59417 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient31 port:59422 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient32 port:59427 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient33 port:59432 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient34 port:59437 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient35 port:59442 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient36 port:59447 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient37 port:59452 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient38 port:59457 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient39 port:59462 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient40 port:59467 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient41 port:59472 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient42 port:59477 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient43 port:59482 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient44 port:59487 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient45 port:59492 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient46 port:59497 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient47 port:59502 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient48 port:59507 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient49 port:59512 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient50 port:59517 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient51 port:59522 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient52 port:59527 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient53 port:59532 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient54 port:59537 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient55 port:59542 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient56 port:59547 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient57 port:59552 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient58 port:59557 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient59 port:59562 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient60 port:59567 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient61 port:59572 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient62 port:59577 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient63 port:59582 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient64 port:59587 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient65 port:59592 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient66 port:59597 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient67 port:59602 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient68 port:59607 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient69 port:59612 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient70 port:59617 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient71 port:59622 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient72 port:59627 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient73 port:59632 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient74 port:59637 ip:127.0.0.1
+------------- ---------------- ---------------
+
+Testcase: testServerSend took 0.608 sec
+Testcase: testServerSendToClient2 took 0.502 sec
+Testcase: testClientSendToServer took 0.526 sec
+Testcase: testClientSendToClient took 0.508 sec
+Testcase: testClientSendToClientLargeMessage took 0.613 sec
+Testcase: testServerBroadcast took 0.524 sec
+Testcase: testClientBroadcast took 0.496 sec
+Testcase: testMultipleServer took 0.543 sec
+Testcase: testMultipleClientToClient took 0.592 sec
+Testcase: testMultipleMessages took 0.632 sec
+Testcase: testCorrectNodeCountInRemove took 0.492 sec
+Testcase: testDisconnect took 0.496 sec
+Testcase: testClose took 0.506 sec
+Testcase: testManyClients took 14.543 sec

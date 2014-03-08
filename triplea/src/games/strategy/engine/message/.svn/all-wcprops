@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/message
+END
+ChannelMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/ChannelMessenger.java
+END
+IRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/IRemote.java
+END
+RemoteMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/RemoteMessenger.java
+END
+ConnectionLostException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/message/ConnectionLostException.java
+END
+HubInvoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/HubInvoke.java
+END
+DummyMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/message/DummyMessenger.java
+END
+DestinationChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/DestinationChangeMessage.java
+END
+UnifiedInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/4057/trunk/triplea/src/games/strategy/engine/message/UnifiedInvocationHandler.java
+END
+MessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/MessageContext.java
+END
+RemoteMethodCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3714/trunk/triplea/src/games/strategy/engine/message/RemoteMethodCall.java
+END
+IRemoteMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/IRemoteMessenger.java
+END
+SpokeInvoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/SpokeInvoke.java
+END
+InvocationInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/InvocationInProgress.java
+END
+RemoteInterfaceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/RemoteInterfaceHelper.java
+END
+UnifiedMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3921/trunk/triplea/src/games/strategy/engine/message/UnifiedMessenger.java
+END
+MessengerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/message/MessengerException.java
+END
+RemoteNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/message/RemoteNotFoundException.java
+END
+SpokeInvocationResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/SpokeInvocationResults.java
+END
+IChannelMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/IChannelMessenger.java
+END
+IChannelSubscribor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/IChannelSubscribor.java
+END
+UnifiedMessengerHub.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/triplea/code/!svn/ver/3480/trunk/triplea/src/games/strategy/engine/message/UnifiedMessengerHub.java
+END
+RemoteMethodCallResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/3714/trunk/triplea/src/games/strategy/engine/message/RemoteMethodCallResults.java
+END
+HubInvocationResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/message/HubInvocationResults.java
+END
+RemoteName.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/4052/trunk/triplea/src/games/strategy/engine/message/RemoteName.java
+END

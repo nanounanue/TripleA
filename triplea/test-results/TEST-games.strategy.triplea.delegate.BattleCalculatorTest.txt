@@ -1,0 +1,12 @@
+Testsuite: games.strategy.triplea.delegate.BattleCalculatorTest
+Tests run: 9, Failures: 0, Errors: 0, Time elapsed: 1.996 sec
+
+Testcase: testAACasualtiesLowLuck took 0.685 sec
+Testcase: testAACasualtiesLowLuckDifferentMovementLetf took 0.269 sec
+Testcase: testAACasualtiesLowLuckMixed took 0.147 sec
+Testcase: testAACasualtiesLowLuckMixedMultipleDiceRolled took 0.152 sec
+Testcase: testAACasualtiesLowLuckMixedWithChooseAACasualties took 0.217 sec
+Testcase: testAACasualtiesLowLuckMixedWithChooseAACasualtiesRoll took 0.152 sec
+Testcase: testAACasualtiesLowLuckMixedWithRolling took 0.091 sec
+Testcase: testAACasualtiesLowLuckMixedWithRollingMiss took 0.105 sec
+Testcase: testAACasualtiesLowLuckMixedWithRollingForBombers took 0.108 sec

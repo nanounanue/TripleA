@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/triplea/code/!svn/ver/4039/trunk/triplea/src/games/strategy/engine/delegate
+END
+DefaultDelegateBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4039/trunk/triplea/src/games/strategy/engine/delegate/DefaultDelegateBridge.java
+END
+IDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/engine/delegate/IDelegate.java
+END
+AutoSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/delegate/AutoSave.java
+END
+DelegateExecutionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/4039/trunk/triplea/src/games/strategy/engine/delegate/DelegateExecutionManager.java
+END
+IDelegateBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/4001/trunk/triplea/src/games/strategy/engine/delegate/IDelegateBridge.java
+END
+IPersistentDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/delegate/IPersistentDelegate.java
+END

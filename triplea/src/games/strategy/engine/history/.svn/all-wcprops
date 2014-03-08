@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/triplea/code/!svn/ver/3901/trunk/triplea/src/games/strategy/engine/history
+END
+Renderable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/history/Renderable.java
+END
+Round.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/triplea/code/!svn/ver/3882/trunk/triplea/src/games/strategy/engine/history/Round.java
+END
+Step.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/history/Step.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/history/Event.java
+END
+IDelegateHistoryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3612/trunk/triplea/src/games/strategy/engine/history/IDelegateHistoryWriter.java
+END
+HistoryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/3901/trunk/triplea/src/games/strategy/engine/history/HistoryWriter.java
+END
+HistoryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/3750/trunk/triplea/src/games/strategy/engine/history/HistoryNode.java
+END
+IndexedHistoryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/history/IndexedHistoryNode.java
+END
+History.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/3881/trunk/triplea/src/games/strategy/engine/history/History.java
+END
+EventChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/history/EventChild.java
+END
+DelegateHistoryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/triplea/code/!svn/ver/3612/trunk/triplea/src/games/strategy/engine/history/DelegateHistoryWriter.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/triplea/code/!svn/ver/3994/trunk/triplea/src/games/strategy/triplea/delegate/remote
+END
+IUserActionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/triplea/code/!svn/ver/3994/trunk/triplea/src/games/strategy/triplea/delegate/remote/IUserActionDelegate.java
+END
+IMoveDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3920/trunk/triplea/src/games/strategy/triplea/delegate/remote/IMoveDelegate.java
+END
+IPoliticsDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/3419/trunk/triplea/src/games/strategy/triplea/delegate/remote/IPoliticsDelegate.java
+END
+IPurchaseDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/3879/trunk/triplea/src/games/strategy/triplea/delegate/remote/IPurchaseDelegate.java
+END
+IEditDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3965/trunk/triplea/src/games/strategy/triplea/delegate/remote/IEditDelegate.java
+END
+IAbstractForumPosterDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/triplea/code/!svn/ver/3920/trunk/triplea/src/games/strategy/triplea/delegate/remote/IAbstractForumPosterDelegate.java
+END
+IBattleDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/3973/trunk/triplea/src/games/strategy/triplea/delegate/remote/IBattleDelegate.java
+END
+ITechDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3879/trunk/triplea/src/games/strategy/triplea/delegate/remote/ITechDelegate.java
+END
+IAbstractPlaceDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/triplea/delegate/remote/IAbstractPlaceDelegate.java
+END
+IAbstractMoveDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/triplea/delegate/remote/IAbstractMoveDelegate.java
+END

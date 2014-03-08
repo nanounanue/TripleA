@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/triplea/code/!svn/ver/4133/trunk/triplea/src/games/strategy/engine/pbem
+END
+ForumPosterComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/4075/trunk/triplea/src/games/strategy/engine/pbem/ForumPosterComponent.java
+END
+TripleAWebPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/4068/trunk/triplea/src/games/strategy/engine/pbem/TripleAWebPoster.java
+END
+HotmailEmailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/HotmailEmailSender.java
+END
+AbstractForumPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/AbstractForumPoster.java
+END
+NullEmailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/NullEmailSender.java
+END
+GenericEmailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/GenericEmailSender.java
+END
+NullWebPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/triplea/code/!svn/ver/3983/trunk/triplea/src/games/strategy/engine/pbem/NullWebPoster.java
+END
+PBEMMessagePoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/triplea/code/!svn/ver/4133/trunk/triplea/src/games/strategy/engine/pbem/PBEMMessagePoster.java
+END
+IEmailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/IEmailSender.java
+END
+IWebPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/3983/trunk/triplea/src/games/strategy/engine/pbem/IWebPoster.java
+END
+NullForumPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/NullForumPoster.java
+END
+IForumPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/IForumPoster.java
+END
+GmailEmailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/triplea/code/!svn/ver/3655/trunk/triplea/src/games/strategy/engine/pbem/GmailEmailSender.java
+END
+TripleAWarClubForumPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3827/trunk/triplea/src/games/strategy/engine/pbem/TripleAWarClubForumPoster.java
+END

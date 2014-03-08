@@ -1,0 +1,8 @@
+Testsuite: games.strategy.triplea.delegate.WW2V3_42_Test
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 1.928 sec
+
+Testcase: testTransportAttack took 0.993 sec
+Testcase: testBombAndAttackEmptyTerritory took 0.348 sec
+Testcase: testLingeringSeaUnitsJoinBattle took 0.194 sec
+Testcase: testLingeringFightersAndALliedUnitsJoinBattle took 0.167 sec
+Testcase: testLingeringSeaUnitsCanMoveAwayFromBattle took 0.153 sec

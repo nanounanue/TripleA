@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/triplea/code/!svn/ver/4001/trunk/triplea/src/games/strategy/common/delegate
+END
+GameDelegateBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/triplea/code/!svn/ver/4001/trunk/triplea/src/games/strategy/common/delegate/GameDelegateBridge.java
+END
+GameDelegateHistoryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/3942/trunk/triplea/src/games/strategy/common/delegate/GameDelegateHistoryWriter.java
+END
+BaseEditDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/common/delegate/BaseEditDelegate.java
+END
+BasePersistentDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/3941/trunk/triplea/src/games/strategy/common/delegate/BasePersistentDelegate.java
+END
+BaseTripleADelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/3941/trunk/triplea/src/games/strategy/common/delegate/BaseTripleADelegate.java
+END
+AbstractDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/4001/trunk/triplea/src/games/strategy/common/delegate/AbstractDelegate.java
+END

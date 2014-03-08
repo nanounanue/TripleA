@@ -1,0 +1,11 @@
+Testsuite: games.strategy.util.VersionTest
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0.071 sec
+
+Testcase: testCompare took 0.003 sec
+Testcase: testCompare2 took 0 sec
+Testcase: testCompare3 took 0 sec
+Testcase: testCompare4 took 0 sec
+Testcase: testCompare5 took 0 sec
+Testcase: testRead1 took 0 sec
+Testcase: testRead2 took 0 sec
+Testcase: testRead3 took 0 sec

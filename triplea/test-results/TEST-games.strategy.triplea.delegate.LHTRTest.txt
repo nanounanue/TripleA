@@ -1,0 +1,9 @@
+Testsuite: games.strategy.triplea.delegate.LHTRTest
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 1.776 sec
+
+Testcase: testFightersCanLandOnNewPlacedCarrier took 0.814 sec
+Testcase: testFightersDestroyedWhenNoPendingCarriers took 0.281 sec
+Testcase: testAAGunsDontFireNonCombat took 0.163 sec
+Testcase: testSubDefenseBonus took 0.123 sec
+Testcase: testLHTRBombingRaid took 0.235 sec
+Testcase: testLHTRBombingRaid2Bombers took 0.101 sec

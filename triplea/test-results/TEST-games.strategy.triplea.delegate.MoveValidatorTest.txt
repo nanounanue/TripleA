@@ -1,0 +1,17 @@
+Testsuite: games.strategy.triplea.delegate.MoveValidatorTest
+Tests run: 14, Failures: 0, Errors: 0, Time elapsed: 2.482 sec
+
+Testcase: testHasEnoughMovement took 0.508 sec
+Testcase: testHasWater took 0.191 sec
+Testcase: testNotEnoughMovement took 0.113 sec
+Testcase: testEnemyUnitsInPath took 0.099 sec
+Testcase: testHasNeutralBeforEnd took 0.1 sec
+Testcase: testHasUnitsThatCantGoOnWater took 0.102 sec
+Testcase: testCarrierCapacity took 0.11 sec
+Testcase: testCarrierCost took 0.105 sec
+Testcase: testGetLeastMovement took 0.124 sec
+Testcase: testCanLand took 0.086 sec
+Testcase: testCanLandInfantry took 0.084 sec
+Testcase: testCanLandBomber took 0.071 sec
+Testcase: testHasSomeLand took 0.07 sec
+Testcase: testTest took 0.339 sec

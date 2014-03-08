@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/triplea/code/!svn/ver/4075/trunk/triplea/src/games/strategy/grid/ui
+END
+GridHistoryDetailsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3909/trunk/triplea/src/games/strategy/grid/ui/GridHistoryDetailsPanel.java
+END
+GridMapData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/triplea/code/!svn/ver/4023/trunk/triplea/src/games/strategy/grid/ui/GridMapData.java
+END
+GridMapPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/triplea/code/!svn/ver/4075/trunk/triplea/src/games/strategy/grid/ui/GridMapPanel.java
+END
+IGridPlayData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/4060/trunk/triplea/src/games/strategy/grid/ui/IGridPlayData.java
+END
+GridEndTurnData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/triplea/code/!svn/ver/3958/trunk/triplea/src/games/strategy/grid/ui/GridEndTurnData.java
+END
+GridGameMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/triplea/code/!svn/ver/3948/trunk/triplea/src/games/strategy/grid/ui/GridGameMenu.java
+END
+GridGameFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/4030/trunk/triplea/src/games/strategy/grid/ui/GridGameFrame.java
+END
+GridPlayData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/triplea/code/!svn/ver/4060/trunk/triplea/src/games/strategy/grid/ui/GridPlayData.java
+END
+IGridEndTurnData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/triplea/code/!svn/ver/3919/trunk/triplea/src/games/strategy/grid/ui/IGridEndTurnData.java
+END

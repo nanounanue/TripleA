@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/triplea/code/!svn/ver/4136/trunk/triplea/src/games/strategy/engine/data/properties
+END
+NumberProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/NumberProperty.java
+END
+BooleanProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/BooleanProperty.java
+END
+AEditableProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/3797/trunk/triplea/src/games/strategy/engine/data/properties/AEditableProperty.java
+END
+ColorProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/ColorProperty.java
+END
+PropertiesUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/PropertiesUI.java
+END
+DoubleProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/DoubleProperty.java
+END
+StringProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/StringProperty.java
+END
+GameProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4136/trunk/triplea/src/games/strategy/engine/data/properties/GameProperties.java
+END
+CollectionProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/CollectionProperty.java
+END
+ComboProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/ComboProperty.java
+END
+IEditableProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/IEditableProperty.java
+END
+MapProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/MapProperty.java
+END
+FileProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/4088/trunk/triplea/src/games/strategy/engine/data/properties/FileProperty.java
+END

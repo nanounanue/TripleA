@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="AMENTRAR84A27L" name="games.strategy.net.MessengerTest" tests="14" time="21.644" timestamp="2013-10-30T04:25:28">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/Users/AMENTRA-R84A27L/eclipse-3.6/plugins/org.eclipse.pde.build_3.6.2.R36x_20110203/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+    <property name="test-classes" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\testclasses" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="ant.home" value="C:\Users\AMENTRA-R84A27L\eclipse-3.6\plugins\org.apache.ant_1.7.1.v20100518-1145" />
+    <property name="java.runtime.version" value="1.6.0_37-b06" />
+    <property name="ant.file.TripleA" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\build.xml" />
+    <property name="user.name" value="Ron" />
+    <property name="user.language" value="en" />
+    <property name="build" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\temp-build" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+    <property name="ant.project.name" value="TripleA" />
+    <property name="java.version" value="1.6.0_37" />
+    <property name="classes" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\classes" />
+    <property name="user.timezone" value="" />
+    <property name="bin" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\bin" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="50.0" />
+    <property name="src" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\src" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jre6" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="junit-result-dir" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\test-results" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="20.12-b01" />
+    <property name="release" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\release" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\AMENTRA-R84A27L\eclipse-3.6\plugins\org.apache.ant_1.7.1.v20100518-1145\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/Users/AMENTRA-R84A27L/eclipse-3.6/plugins/org.eclipse.pde.build_3.6.2.R36x_20110203/scripts/" />
+    <property name="triplea.version" value="1_7_0_3" />
+    <property name="user.home" value="C:\Users\Ron" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="zip.prefix" value="triplea_1_7_0_3" />
+    <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\RSA SecurID Token Common;C:\Users\AMENTRA-R84A27L\OracleClient;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\Lenovo;C:\Program Files (x86)\Common Files\Ulead Systems\MPEG;C:\Program Files (x86)\Lenovo\Access Connections\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Users\AMENTRA-R84A27L\apache-ant-1.8.1\bin;C:\Program Files (x86)\MySQL\MySQL Server 5.1\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\AMENTRA-R84A27L\MySQL\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Seapine\Surround SCM;." />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner games.strategy.net.MessengerTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter,C:\Users\Ron\Desktop\TripleA Workspace\triplea\test-results\TEST-games.strategy.net.MessengerTest.txt formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Ron\Desktop\TripleA Workspace\triplea\test-results\TEST-games.strategy.net.MessengerTest.xml crashfile=C:\Users\Ron\Desktop\TripleA Workspace\triplea\junitvmwatcher563127912569881005.properties propsfile=C:\Users\Ron\Desktop\TripleA Workspace\triplea\junit6724087348527292369.properties" />
+    <property name="java.class.path" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\testclasses;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\AppleJavaExtensions.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\activation.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\commons-codec-1.3.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\commons-httpclient-3.0.1.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\commons-logging-1.1.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\mailapi.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\smtp.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\substance-5.3.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\upnp.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\classes;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\derby_10_1_2.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea\lib\junit.jar;C:\Users\Ron\Desktop\TripleA Workspace\triplea;C:\Program Files (x86)\Java\jre6\lib\ext\QTJava.zip;C:\Users\AMENTRA-R84A27L\eclipse-3.6\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-launcher.jar;C:\Users\AMENTRA-R84A27L\eclipse-3.6\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant.jar;C:\Users\AMENTRA-R84A27L\eclipse-3.6\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-junit.jar" />
+    <property name="ant.version" value="Apache Ant version 1.7.1 compiled on June 27 2008" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="test-src" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea\test" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="tests" value="**/*Test" />
+    <property name="eclipse.pdebuild.home" value="/C:/Users/AMENTRA-R84A27L/eclipse-3.6/plugins/org.eclipse.pde.build_3.6.2.R36x_20110203/./" />
+    <property name="java.io.tmpdir" value="C:\Users\Ron\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea" />
+    <property name="line.separator" value="
+" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="C:\Users\Ron\Desktop\TripleA Workspace\triplea" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="ant.core.lib" value="C:\Users\AMENTRA-R84A27L\eclipse-3.6\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.specification.version" value="1.6" />
+  </properties>
+  <testcase classname="games.strategy.net.MessengerTest" name="testServerSend" time="0.61" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testServerSendToClient2" time="0.502" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testClientSendToServer" time="0.526" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testClientSendToClient" time="0.508" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testClientSendToClientLargeMessage" time="0.614" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testServerBroadcast" time="0.524" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testClientBroadcast" time="0.496" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testMultipleServer" time="0.543" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testMultipleClientToClient" time="0.591" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testMultipleMessages" time="0.632" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testCorrectNodeCountInRemove" time="0.492" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testDisconnect" time="0.497" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testClose" time="0.506" />
+  <testcase classname="games.strategy.net.MessengerTest" name="testManyClients" time="14.543" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Oct 29, 2013 11:25:28 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59049 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59054 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59065 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59070 ip:127.0.0.1
+Oct 29, 2013 11:25:29 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59081 ip:127.0.0.1
+Oct 29, 2013 11:25:30 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59086 ip:127.0.0.1
+Oct 29, 2013 11:25:30 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59097 ip:127.0.0.1
+Oct 29, 2013 11:25:30 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59102 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59113 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59118 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59129 ip:127.0.0.1
+Oct 29, 2013 11:25:31 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59134 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59145 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59150 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59161 ip:127.0.0.1
+Oct 29, 2013 11:25:32 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59166 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59177 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59182 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59193 ip:127.0.0.1
+Oct 29, 2013 11:25:33 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59198 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59209 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59214 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client1 port:59209 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59225 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59230 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client1 port:59225 ip:127.0.0.1
+Oct 29, 2013 11:25:34 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client2 port:59230 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59241 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59246 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:client1 port:59241 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:59257 ip:127.0.0.1
+Oct 29, 2013 11:25:35 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:59262 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient0 port:59267 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient1 port:59272 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient2 port:59277 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient3 port:59282 ip:127.0.0.1
+Oct 29, 2013 11:25:36 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient4 port:59287 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient5 port:59292 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient6 port:59297 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient7 port:59302 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient8 port:59307 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient9 port:59312 ip:127.0.0.1
+Oct 29, 2013 11:25:37 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient10 port:59317 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient11 port:59322 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient12 port:59327 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient13 port:59332 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient14 port:59337 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient15 port:59342 ip:127.0.0.1
+Oct 29, 2013 11:25:38 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient16 port:59347 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient17 port:59352 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient18 port:59357 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient19 port:59362 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient20 port:59367 ip:127.0.0.1
+Oct 29, 2013 11:25:39 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient21 port:59372 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient22 port:59377 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient23 port:59382 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient24 port:59387 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient25 port:59392 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient26 port:59397 ip:127.0.0.1
+Oct 29, 2013 11:25:40 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient27 port:59402 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient28 port:59407 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient29 port:59412 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient30 port:59417 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient31 port:59422 ip:127.0.0.1
+Oct 29, 2013 11:25:41 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient32 port:59427 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient33 port:59432 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient34 port:59437 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient35 port:59442 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient36 port:59447 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient37 port:59452 ip:127.0.0.1
+Oct 29, 2013 11:25:42 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient38 port:59457 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient39 port:59462 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient40 port:59467 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient41 port:59472 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient42 port:59477 ip:127.0.0.1
+Oct 29, 2013 11:25:43 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient43 port:59482 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient44 port:59487 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient45 port:59492 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient46 port:59497 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient47 port:59502 ip:127.0.0.1
+Oct 29, 2013 11:25:44 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient48 port:59507 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient49 port:59512 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient50 port:59517 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient51 port:59522 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient52 port:59527 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient53 port:59532 ip:127.0.0.1
+Oct 29, 2013 11:25:45 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient54 port:59537 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient55 port:59542 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient56 port:59547 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient57 port:59552 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient58 port:59557 ip:127.0.0.1
+Oct 29, 2013 11:25:46 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient59 port:59562 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient60 port:59567 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient61 port:59572 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient62 port:59577 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient63 port:59582 ip:127.0.0.1
+Oct 29, 2013 11:25:47 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient64 port:59587 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient65 port:59592 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient66 port:59597 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient67 port:59602 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient68 port:59607 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient69 port:59612 ip:127.0.0.1
+Oct 29, 2013 11:25:48 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient70 port:59617 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient71 port:59622 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient72 port:59627 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient73 port:59632 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:newClient74 port:59637 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient0 port:59267 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient1 port:59272 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient2 port:59277 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient3 port:59282 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient4 port:59287 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient5 port:59292 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient6 port:59297 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient7 port:59302 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient8 port:59307 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient9 port:59312 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient10 port:59317 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient11 port:59322 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient12 port:59327 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient13 port:59332 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient14 port:59337 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient15 port:59342 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient16 port:59347 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient17 port:59352 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient18 port:59357 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient19 port:59362 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient20 port:59367 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient21 port:59372 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient22 port:59377 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient23 port:59382 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient24 port:59387 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient25 port:59392 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient26 port:59397 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient27 port:59402 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient28 port:59407 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient29 port:59412 ip:127.0.0.1
+Oct 29, 2013 11:25:49 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient30 port:59417 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient31 port:59422 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient32 port:59427 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient33 port:59432 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient34 port:59437 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient35 port:59442 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient36 port:59447 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient37 port:59452 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient38 port:59457 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient39 port:59462 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient40 port:59467 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient41 port:59472 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient42 port:59477 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient43 port:59482 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient44 port:59487 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient45 port:59492 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient46 port:59497 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient47 port:59502 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient48 port:59507 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient49 port:59512 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient50 port:59517 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient51 port:59522 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient52 port:59527 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient53 port:59532 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient54 port:59537 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient55 port:59542 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient56 port:59547 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient57 port:59552 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient58 port:59557 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient59 port:59562 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient60 port:59567 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient61 port:59572 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient62 port:59577 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient63 port:59582 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient64 port:59587 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient65 port:59592 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient66 port:59597 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient67 port:59602 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient68 port:59607 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient69 port:59612 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient70 port:59617 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient71 port:59622 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient72 port:59627 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient73 port:59632 ip:127.0.0.1
+Oct 29, 2013 11:25:50 PM games.strategy.net.ServerMessenger removeConnection
+INFO: Connection removed:newClient74 port:59637 ip:127.0.0.1
+]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+Testsuite: games.strategy.triplea.util.WrappedInvocationHandlerTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.07 sec
+
+Testcase: testEquals took 0.006 sec

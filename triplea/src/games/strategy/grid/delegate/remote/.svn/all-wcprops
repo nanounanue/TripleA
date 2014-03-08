@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/triplea/code/!svn/ver/4060/trunk/triplea/src/games/strategy/grid/delegate/remote
+END
+IGridEditDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/3941/trunk/triplea/src/games/strategy/grid/delegate/remote/IGridEditDelegate.java
+END
+IGridPlayDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/4060/trunk/triplea/src/games/strategy/grid/delegate/remote/IGridPlayDelegate.java
+END

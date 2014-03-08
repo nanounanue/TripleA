@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/triplea/code/!svn/ver/4112/trunk/triplea/test/games/strategy/engine/chat
+END
+ChatPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/triplea/code/!svn/ver/3313/trunk/triplea/test/games/strategy/engine/chat/ChatPanelTest.java
+END
+ChatIgnoreListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3313/trunk/triplea/test/games/strategy/engine/chat/ChatIgnoreListTest.java
+END
+ChatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/4112/trunk/triplea/test/games/strategy/engine/chat/ChatTest.java
+END
+ChatFloodControlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3313/trunk/triplea/test/games/strategy/engine/chat/ChatFloodControlTest.java
+END
+StatusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/triplea/code/!svn/ver/3313/trunk/triplea/test/games/strategy/engine/chat/StatusTest.java
+END

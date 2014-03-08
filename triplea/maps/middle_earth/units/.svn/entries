@@ -1,0 +1,67 @@
+9
+
+dir
+4152
+https://svn.code.sf.net/p/triplea/code/trunk/triplea/maps/middle_earth/units
+https://svn.code.sf.net/p/triplea/code
+
+
+
+2011-08-01T08:36:59.402506Z
+3171
+veqryn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4c711aa-641f-0410-879d-9b464e52b682
+
+Dale
+dir
+
+Dwarves
+dir
+
+Elves
+dir
+
+Freefolk
+dir
+
+Goblins
+dir
+
+Gondor
+dir
+
+Haradrim
+dir
+
+Khand
+dir
+
+Mordor
+dir
+
+Neutral
+dir
+
+Rhun
+dir
+
+Rohan
+dir
+
+Saruman
+dir
+

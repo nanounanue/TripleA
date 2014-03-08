@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/triplea/code/!svn/ver/4144/trunk/triplea/src/games/strategy/triplea/ai
+END
+AbstractAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/triplea/code/!svn/ver/4126/trunk/triplea/src/games/strategy/triplea/ai/AbstractAI.java
+END
+AIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/triplea/code/!svn/ver/4126/trunk/triplea/src/games/strategy/triplea/ai/AIUtils.java
+END
+BasicPoliticalAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/triplea/code/!svn/ver/3541/trunk/triplea/src/games/strategy/triplea/ai/BasicPoliticalAI.java
+END

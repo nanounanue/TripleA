@@ -1,0 +1,178 @@
+9
+
+dir
+4152
+https://svn.code.sf.net/p/triplea/code/trunk/triplea/assets/sounds/generic
+https://svn.code.sf.net/p/triplea/code
+
+
+
+2014-02-22T20:41:20.387455Z
+4137
+veqryn
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4c711aa-641f-0410-879d-9b464e52b682
+
+battle_aa_hit
+dir
+
+battle_aa_miss
+dir
+
+battle_air
+dir
+
+battle_air_successful
+dir
+
+battle_bombard
+dir
+
+battle_failure
+dir
+
+battle_land
+dir
+
+battle_retreat_air
+dir
+
+battle_retreat_land
+dir
+
+battle_retreat_sea
+dir
+
+battle_retreat_submerge
+dir
+
+battle_sea_normal
+dir
+
+battle_sea_subs
+dir
+
+battle_sea_successful
+dir
+
+battle_stalemate
+dir
+
+bombing_rocket
+dir
+
+bombing_strategic
+dir
+
+chat_join_game
+dir
+
+chat_message
+dir
+
+chat_slap
+dir
+
+click_button
+dir
+
+click_plot
+dir
+
+game_start
+dir
+
+game_won
+dir
+
+others
+dir
+
+phase_battle
+dir
+
+phase_end_turn
+dir
+
+phase_move_combat
+dir
+
+phase_move_noncombat
+dir
+
+phase_placement
+dir
+
+phase_politics
+dir
+
+phase_purchase
+dir
+
+phase_technology
+dir
+
+phase_user_actions
+dir
+
+placed_air
+dir
+
+placed_infrastructure
+dir
+
+placed_land
+dir
+
+placed_sea
+dir
+
+political_action_failure
+dir
+
+political_action_successful
+dir
+
+required_action
+dir
+
+required_your_turn_series
+dir
+
+technology_failure
+dir
+
+technology_successful
+dir
+
+territory_capture_blitz
+dir
+
+territory_capture_capital
+dir
+
+territory_capture_land
+dir
+
+territory_capture_sea
+dir
+
+user_action_failure
+dir
+
+user_action_successful
+dir
+

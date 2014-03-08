@@ -1,0 +1,22 @@
+Testsuite: games.strategy.engine.message.ChannelMessengerTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 3.336 sec
+------------- Standard Error -----------------
+Oct 29, 2013 11:25:15 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:58879 ip:127.0.0.1
+Oct 29, 2013 11:25:15 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:58890 ip:127.0.0.1
+Oct 29, 2013 11:25:16 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:58901 ip:127.0.0.1
+Oct 29, 2013 11:25:16 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:58912 ip:127.0.0.1
+Oct 29, 2013 11:25:17 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client2 port:58917 ip:127.0.0.1
+Oct 29, 2013 11:25:17 PM games.strategy.net.ServerMessenger socketUnqaurantined
+INFO: Connection added to:client1 port:58928 ip:127.0.0.1
+------------- ---------------- ---------------
+
+Testcase: testDummy took 0.694 sec
+Testcase: testLocalCall took 0.477 sec
+Testcase: testRemoteCall took 0.627 sec
+Testcase: testMultipleClients took 0.792 sec
+Testcase: testMultipleChannels took 0.668 sec

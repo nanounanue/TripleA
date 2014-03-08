@@ -1,0 +1,138 @@
+Testsuite: games.strategy.engine.data.annotations.ValidateAttachmentsTest
+Tests run: 9, Failures: 0, Errors: 0, Time elapsed: 15.831 sec
+------------- Standard Output ---------------
+Class games.strategy.triplea.attatchments.CanalAttachment doesn't have a valid getter method for property: excludedUnits
+Class games.strategy.triplea.attatchments.CanalAttachment doesn't have a valid getter method for property: excludedUnits
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveAirUnitsOverOwnedLand returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanMoveAirUnitsOverOwnedLand
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanMoveAirUnitsOverOwnedLand returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveLandUnitsOverOwnedLand returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanMoveLandUnitsOverOwnedLand
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanMoveLandUnitsOverOwnedLand returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanLandAirUnitsOnOwnedLand returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanLandAirUnitsOnOwnedLand
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanLandAirUnitsOnOwnedLand returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanTakeOverOwnedTerritory returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanTakeOverOwnedTerritory
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanTakeOverOwnedTerritory returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getAlliancesCanChainTogether returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getIsDefaultWarPosition returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getGivesBackOriginalTerritories returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveIntoDuringCombatMove returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveThroughCanals returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getRocketsCanFlyOver returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.TerritoryAttachment has a setter setResources which adds but the field m_resources is not a Collection or Map or IntegerMap
+Class games.strategy.triplea.attatchments.TerritoryAttachment is missing field for setter setProductionOnly with @GameProperty
+Class games.strategy.triplea.attatchments.TerritoryAttachment is missing field for setter setProductionOnly with @GameProperty
+Class games.strategy.triplea.attatchments.TerritoryAttachment is missing field for setter setProductionOnly with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airDefense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airDefense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airAttack
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airAttack
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setDestroyedWhenCapturedFrom with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBlitz
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBlitz
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBombard
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBombard
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsFactory with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsFactory with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setUnitPlacementOnlyAllowedIn with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canInvadeOnlyFrom
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canInvadeOnlyFrom
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombard
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombard
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: movement
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: movement
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attack
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attack
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defenseRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defenseRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombingTargets
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombingTargets
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAA with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAA with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: offensiveAttackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: offensiveAttackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: targetsAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: targetsAA
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAAmovement with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAAmovement with @GameProperty
+
+logging to :C:\Users\Ron\Desktop\TripleA Workspace\triplea\.\access_logs\access-log%g.txtlogging to :C:\Users\Ron\Desktop\TripleA Workspace\triplea\.\logs\server-log%g.txtlogging to :C:\Users\Ron\Desktop\TripleA Workspace\triplea\.\logs\headless-game-server--log%g.txtAutoPlacementFinder Log
+
+
+TileImageReconstructor Log
+
+
+WARNING: Class games.strategy.engine.xml.TestAttachment setter setName: begins with 'set' so must have either InternalDoNotExport or GameProperty annotationWARNING: Class games.strategy.engine.xml.TestAttachment setter setValue: begins with 'set' so must have either InternalDoNotExport or GameProperty annotationWARNING: Class games.strategy.engine.xml.TestAttachment setter setAttachedTo: begins with 'set' so must have either InternalDoNotExport or GameProperty annotationClass games.strategy.triplea.attatchments.CanalAttachment doesn't have a valid getter method for property: excludedUnits
+Class games.strategy.triplea.attatchments.CanalAttachment doesn't have a valid getter method for property: excludedUnits
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveAirUnitsOverOwnedLand returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanMoveAirUnitsOverOwnedLand
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanMoveAirUnitsOverOwnedLand returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveLandUnitsOverOwnedLand returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanMoveLandUnitsOverOwnedLand
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanMoveLandUnitsOverOwnedLand returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanLandAirUnitsOnOwnedLand returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanLandAirUnitsOnOwnedLand
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanLandAirUnitsOnOwnedLand returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanTakeOverOwnedTerritory returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, value set could not be obtained using getCanTakeOverOwnedTerritory
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment, getCanTakeOverOwnedTerritory returns type java.lang.Boolean but field is of type java.lang.StringClass games.strategy.triplea.attatchments.RelationshipTypeAttachment. getAlliancesCanChainTogether returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getIsDefaultWarPosition returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getGivesBackOriginalTerritories returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveIntoDuringCombatMove returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getCanMoveThroughCanals returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.RelationshipTypeAttachment. getRocketsCanFlyOver returns type boolean but property field is type java.lang.String
+Class games.strategy.triplea.attatchments.TerritoryAttachment has a setter setResources which adds but the field m_resources is not a Collection or Map or IntegerMap
+Class games.strategy.triplea.attatchments.TerritoryAttachment is missing field for setter setProductionOnly with @GameProperty
+Class games.strategy.triplea.attatchments.TerritoryAttachment is missing field for setter setProductionOnly with @GameProperty
+Class games.strategy.triplea.attatchments.TerritoryAttachment is missing field for setter setProductionOnly with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airDefense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airDefense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airAttack
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: airAttack
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setDestroyedWhenCapturedFrom with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBlitz
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBlitz
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBombard
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canBombard
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsFactory with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsFactory with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setUnitPlacementOnlyAllowedIn with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canInvadeOnlyFrom
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: canInvadeOnlyFrom
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombard
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombard
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: movement
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: movement
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attack
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attack
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defense
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defenseRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: defenseRolls
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombingTargets
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: bombingTargets
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAA with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAA with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: attackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: offensiveAttackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: offensiveAttackAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: targetsAA
+Class games.strategy.triplea.attatchments.UnitAttachment doesn't have a valid getter method for property: targetsAA
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAAmovement with @GameProperty
+Class games.strategy.triplea.attatchments.UnitAttachment is missing field for setter setIsAAmovement with @GameProperty
+
+------------- ---------------- ---------------
+
+Testcase: testExample took 0.042 sec
+Testcase: testInvalidField took 0.008 sec
+Testcase: testAnnotationOnGetter took 0.006 sec
+Testcase: testInvalidReturnType took 0.01 sec
+Testcase: testInvalidClearMethod took 0.038 sec
+Testcase: testInvalidResetMethod took 0.006 sec
+Testcase: testInvalidFieldType took 0.005 sec
+Testcase: testSpecificAttachments took 0.978 sec
+Testcase: testAllAttachments took 14.648 sec

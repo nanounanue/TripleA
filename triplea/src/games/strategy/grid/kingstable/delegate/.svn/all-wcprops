@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/grid/kingstable/delegate
+END
+EndTurnDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/3920/trunk/triplea/src/games/strategy/grid/kingstable/delegate/EndTurnDelegate.java
+END
+PlayDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/grid/kingstable/delegate/PlayDelegate.java
+END
+InitializationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/triplea/code/!svn/ver/3992/trunk/triplea/src/games/strategy/grid/kingstable/delegate/InitializationDelegate.java
+END

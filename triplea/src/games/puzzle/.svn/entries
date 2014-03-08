@@ -1,0 +1,34 @@
+9
+
+dir
+4152
+https://svn.code.sf.net/p/triplea/code/trunk/triplea/src/games/puzzle
+https://svn.code.sf.net/p/triplea/code
+
+
+
+2013-06-04T12:26:03.089059Z
+4054
+veqryn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4c711aa-641f-0410-879d-9b464e52b682
+
+slidingtiles
+dir
+
+tictactoe
+dir
+

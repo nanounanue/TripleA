@@ -1,0 +1,6 @@
+Testsuite: games.strategy.triplea.util.UnitAutoChooserTest
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 1.534 sec
+
+Testcase: testUnitAutoChooserWithImplicitDependentsNoMovementCategorized took 1.037 sec
+Testcase: testUnitAutoChooserNoImplicitDependentsNoMovementCategorized took 0.253 sec
+Testcase: testUnitAutoChooserWithImplicitDependentsWithMovementCategorized took 0.183 sec

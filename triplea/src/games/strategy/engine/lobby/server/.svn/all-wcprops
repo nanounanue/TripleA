@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/triplea/code/!svn/ver/4136/trunk/triplea/src/games/strategy/engine/lobby/server
+END
+ILobbyGameBroadcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/ILobbyGameBroadcaster.java
+END
+ILobbyGameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/ILobbyGameController.java
+END
+NullModeratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/lobby/server/NullModeratorController.java
+END
+GameDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/4086/trunk/triplea/src/games/strategy/engine/lobby/server/GameDescription.java
+END
+IRemoteHostUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/lobby/server/IRemoteHostUtils.java
+END
+IUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/IUserManager.java
+END
+LobbyServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/4112/trunk/triplea/src/games/strategy/engine/lobby/server/LobbyServer.java
+END
+IModeratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/lobby/server/IModeratorController.java
+END
+LobbyGameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/LobbyGameController.java
+END
+RemoteHostUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/lobby/server/RemoteHostUtils.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/server/UserManager.java
+END
+ModeratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/4123/trunk/triplea/src/games/strategy/engine/lobby/server/ModeratorController.java
+END

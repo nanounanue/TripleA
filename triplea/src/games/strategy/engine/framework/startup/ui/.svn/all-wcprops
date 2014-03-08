@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/triplea/code/!svn/ver/4152/trunk/triplea/src/games/strategy/engine/framework/startup/ui
+END
+ISetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/framework/startup/ui/ISetupPanel.java
+END
+MetaSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/framework/startup/ui/MetaSetupPanel.java
+END
+MainPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4057/trunk/triplea/src/games/strategy/engine/framework/startup/ui/MainPanel.java
+END
+ServerSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/4136/trunk/triplea/src/games/strategy/engine/framework/startup/ui/ServerSetupPanel.java
+END
+SetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/4047/trunk/triplea/src/games/strategy/engine/framework/startup/ui/SetupPanel.java
+END
+PBEMSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/triplea/code/!svn/ver/4133/trunk/triplea/src/games/strategy/engine/framework/startup/ui/PBEMSetupPanel.java
+END
+InGameLobbyWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/triplea/code/!svn/ver/4152/trunk/triplea/src/games/strategy/engine/framework/startup/ui/InGameLobbyWatcher.java
+END
+FileBackedGamePropertiesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/triplea/code/!svn/ver/4008/trunk/triplea/src/games/strategy/engine/framework/startup/ui/FileBackedGamePropertiesCache.java
+END
+ServerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/4026/trunk/triplea/src/games/strategy/engine/framework/startup/ui/ServerOptions.java
+END
+EnginePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/triplea/code/!svn/ver/4043/trunk/triplea/src/games/strategy/engine/framework/startup/ui/EnginePreferences.java
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4152/trunk/triplea/src/games/strategy/engine/framework/startup/ui/MainFrame.java
+END
+IGamePropertiesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/triplea/code/!svn/ver/3362/trunk/triplea/src/games/strategy/engine/framework/startup/ui/IGamePropertiesCache.java
+END
+ClientOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/triplea/code/!svn/ver/3574/trunk/triplea/src/games/strategy/engine/framework/startup/ui/ClientOptions.java
+END
+GameSelectorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/triplea/code/!svn/ver/4120/trunk/triplea/src/games/strategy/engine/framework/startup/ui/GameSelectorPanel.java
+END
+ClientSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/triplea/code/!svn/ver/4120/trunk/triplea/src/games/strategy/engine/framework/startup/ui/ClientSetupPanel.java
+END
+LocalSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/triplea/code/!svn/ver/4133/trunk/triplea/src/games/strategy/engine/framework/startup/ui/LocalSetupPanel.java
+END

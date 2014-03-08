@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/triplea/code/!svn/ver/4132/trunk/triplea/src/games/strategy/engine/lobby/client/ui
+END
+LobbyGamePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4132/trunk/triplea/src/games/strategy/engine/lobby/client/ui/LobbyGamePanel.java
+END
+MacLobbyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/triplea/code/!svn/ver/3313/trunk/triplea/src/games/strategy/engine/lobby/client/ui/MacLobbyWrapper.java
+END
+LobbyFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/triplea/code/!svn/ver/3961/trunk/triplea/src/games/strategy/engine/lobby/client/ui/LobbyFrame.java
+END
+LobbyGameTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/triplea/code/!svn/ver/4086/trunk/triplea/src/games/strategy/engine/lobby/client/ui/LobbyGameTable.java
+END
+LobbyMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/triplea/code/!svn/ver/4113/trunk/triplea/src/games/strategy/engine/lobby/client/ui/LobbyMenu.java
+END
+LobbyGameTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/triplea/code/!svn/ver/4096/trunk/triplea/src/games/strategy/engine/lobby/client/ui/LobbyGameTableModel.java
+END
