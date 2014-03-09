@@ -613,19 +613,30 @@ public class ProCombatMoveAI extends StrongAI
 		// Calculate value of attacking territory
 		for (ProAttackTerritoryData attackTerritoryData : attackMap.values())
 		{
+			// Get defending units and average tuv swing for attacking
 			Territory t = attackTerritoryData.getTerritory();
+			final List<Unit> defendingUnits = t.getUnits().getMatches(Matches.enemyUnit(player, data));
 			double TUVSwing = attackTerritoryData.getTUVSwing();
-			int production = 0;
-			int isEnemyCapital = 0;
-			int isAdjacentToMyCapital = 0;
-			int isFactory = 0;
+			
+			// Determine if there are no defenders
 			int isEmpty = 0;
-			if (t.getUnits().getMatches(Matches.enemyUnit(player, data)).size() == 0)
+			final boolean hasNoDefenders = Match.allMatch(defendingUnits, Matches.UnitIsInfrastructure);
+			if (defendingUnits.isEmpty() || hasNoDefenders)
 				isEmpty = 1;
+			
+			// Determine if it is adjacent to my capital
+			int isAdjacentToMyCapital = 0;
 			if (!data.getMap().getNeighbors(t, Matches.territoryIs(myCapital)).isEmpty())
 				isAdjacentToMyCapital = 1;
+			
+			// Determine if it has a factory
+			int isFactory = 0;
 			if (t.getUnits().someMatch(Matches.UnitCanProduceUnits))
 				isFactory = 1;
+			
+			// Determine production value and if it is an enemy capital
+			int production = 0;
+			int isEnemyCapital = 0;
 			final TerritoryAttachment ta = TerritoryAttachment.get(t);
 			if (ta != null)
 			{
@@ -633,7 +644,10 @@ public class ProCombatMoveAI extends StrongAI
 				if (ta.isCapital())
 					isEnemyCapital = 1;
 			}
-			double attackValue = (TUVSwing + production + isFactory * 3) * (1 + isEmpty * 3) * (1 + isEnemyCapital * 4) * (1 + isAdjacentToMyCapital * 2);
+			
+			// Calculate attack value for prioritization
+			double defendingUnitsSizeMultiplier = (1 / (defendingUnits.size() + 1)) + 0.5; // Used to consider how many attackers I need
+			double attackValue = (defendingUnitsSizeMultiplier * TUVSwing + 2 * production + 10 * isEmpty + 5 * isFactory) * (1 + 4 * isEnemyCapital) * (1 + 2 * isAdjacentToMyCapital);
 			attackTerritoryData.setAttackValue(attackValue);
 		}
 		
@@ -664,7 +678,7 @@ public class ProCombatMoveAI extends StrongAI
 	{
 		// Assign units to territories by prioritization
 		List<Unit> unitsToRemove = new ArrayList<Unit>();
-		int numToAttack = Math.min(2, prioritizedTerritories.size());
+		int numToAttack = Math.min(1, prioritizedTerritories.size());
 		while (true)
 		{
 			List<ProAttackTerritoryData> territoriesToTryToAttack = prioritizedTerritories.subList(0, numToAttack);
