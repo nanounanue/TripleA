@@ -101,12 +101,12 @@ public class ProAttackTerritoryData
 	{
 		return units;
 	}
-
+	
 	public void setCanHold(boolean canHold)
 	{
 		this.canHold = canHold;
 	}
-
+	
 	public boolean isCanHold()
 	{
 		return canHold;

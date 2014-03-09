@@ -70,12 +70,12 @@ public class ProBattleResultData
 	{
 		this.hasLandUnitRemaining = hasLandUnitRemaining;
 	}
-
+	
 	public void setAverageUnitsRemaining(List<Unit> averageUnitsRemaining)
 	{
 		this.averageUnitsRemaining = averageUnitsRemaining;
 	}
-
+	
 	public List<Unit> getAverageUnitsRemaining()
 	{
 		return averageUnitsRemaining;
